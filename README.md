@@ -10,4 +10,5 @@
 ## Step 2.2
 - Appends LULC and population density data to the GMOD data base for Ae. albopictus and Ae. aegypti
 ---
-# 
+# Updating the 75th percentile seasonal model with GMOD data (example for one yearly update)
+- 
