@@ -1,6 +1,6 @@
 # Creating the 75th percentile seasonal model only from Kraemer data set
 ## Step 1 
-- Filename: ocsvm_monthly_model_libsvm_step_1.py
+- Filename: OCSVM_monthly_model_libsvm_Step_1.py
 - This file creates the 75th percentile model from Kraemer data set for both Ae. albopictus and Ae. aegypti
 ---
 # Appending GMOD data set with climate, LULC and population density data
@@ -11,4 +11,7 @@
 - Appends LULC and population density data to the GMOD data base for Ae. albopictus and Ae. aegypti
 ---
 # Updating the 75th percentile seasonal model with GMOD data (example for one yearly update)
-- 
+- Filename: GMOD_online_learning_Step_3.ipynb
+- Gathers the data from GMOD that are misclassified by the model
+- Filename: GMOD_online_learning_Step_4.ipynb
+- Update the model by adding the misclassified data
