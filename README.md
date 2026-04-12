@@ -15,3 +15,4 @@
 - Gathers the data from GMOD that are misclassified by the model
 - Filename: GMOD_online_learning_Step_4.ipynb
 - Update the model by adding the misclassified data
+- This will update the model by each year
