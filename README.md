@@ -18,3 +18,8 @@
 - Filename: GMOD_online_learning_Step_4.ipynb
 - Update the model by adding the misclassified data
 - This will update the model by each year
+# Model inference
+## Step 5
+- Filename: GMOD_inference_Step_5.ipynb
+- Once the model has been iterated through the year 2023, this code shows the calculation of monthly suitability results for the year 2024 for Ae. albopictus
+
