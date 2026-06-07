@@ -23,3 +23,9 @@
 - Filename: GMOD_inference_Step_5.ipynb
 - Once the model has been iterated through the year 2023, this code shows the calculation of monthly suitability results for the year 2024 for Ae. albopictus
 
+# Model explainability
+## Step 6
+- Filename: shapley_bar_beeswarm_plots.ipynb
+- This file saves the Shapley bar and bee swarm plots for Ae. aegypti and Ae. albopictus for the year 2024
+  
+
