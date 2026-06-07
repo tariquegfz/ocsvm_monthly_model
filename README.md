@@ -24,8 +24,12 @@
 - Once the model has been iterated through the year 2023, this code shows the calculation of monthly suitability results for the year 2024 for Ae. albopictus
 
 # Model explainability
-## Step 6
-- Filename: shapley_bar_beeswarm_plots.ipynb
+## Step 6.1
+- Filename: Shapley_bar_beeswarm_plots_Step_6.1.ipynb
 - This file saves the Shapley bar and bee swarm plots for Ae. aegypti and Ae. albopictus for the year 2024
-  
+---
+## Step 6.2
+- Filename: Shapley_waterfall_plot_individual_locations_Step_6.2.ipynb
+- This file saves the Shapley waterfall plots for choice of individual locations and months for Ae. aegypti and Ae. albopictus
+
 
